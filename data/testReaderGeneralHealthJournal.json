@@ -1,0 +1,22 @@
+{
+  "entries": [
+    {
+      "sleep": 1,
+      "activity": 1,
+      "mood": 1,
+      "food": 1,
+      "entryID": 1
+    },
+    {
+      "sleep": 2,
+      "activity": 2,
+      "mood": 2,
+      "food": 2,
+      "entryID": 2
+    }
+  ],
+  "entryIDs": [
+    1,
+    2
+  ]
+}
