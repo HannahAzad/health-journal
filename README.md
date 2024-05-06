@@ -1,4 +1,4 @@
-# My Personal Project
+# DigiHealth
 
 ## Personal Health Log
 
