@@ -101,12 +101,3 @@ Viewed entry 11282023 in detail.
 Sun Nov 26 13:38:16 PST 2023
 
 Entry 11282023 removed from journal.
-
-## Phase 4: Task 3
-
-After reviewing my UML class diagram, I realized that I didn't use my HealthJournalApp's functionality
-in my GUI. Instead, I directly implemented my HealthJournal class and coded around its methods. If I were to refactor
-my project, I would use a HealthJournalApp object in my GUI, instead of a HealthJournal object, to ensure that every
-class is utilized. Additionally, this would reduce code duplication and simplify numerous of my GUI's methods.
-For example, had I used HealthJournalApp in the GUI, I would have been able to call "saveHealthJournal()" from this
-class as opposed to implementing another method named "saveAndQuit()" in MenuPanel.
